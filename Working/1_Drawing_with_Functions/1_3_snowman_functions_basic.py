@@ -19,7 +19,7 @@ def draw_snow_person():
 
     # Eyes
     arcade.draw_circle_filled(285, 350, 5, arcade.color.BLACK)
-    arcade.draw_circle_filled(315, 350, 5, arcade.color.BLACK)
+    arcade.draw_circle_filled(315, 350, 5, arcade.color.BLACK)+++++++++++++++++++++
 
 
 def main():
