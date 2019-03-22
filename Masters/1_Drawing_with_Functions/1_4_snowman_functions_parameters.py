@@ -32,6 +32,7 @@ def main():
 
     draw_grass()
     draw_snow_person(50, 50)
+    
     # add another snowman
 
     # Finish and run
